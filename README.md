@@ -9,3 +9,6 @@ This project has a GUI interface that will make user to answer set of questions,
 
 # Model used : Random Forest ( 93% Accuracy ) 
 
+Run GUI.py file and make sure to give right path of Raw data.xlsx 
+
+
